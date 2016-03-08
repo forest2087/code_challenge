@@ -1,0 +1,19 @@
+{
+    "name": "needls",
+    "version": "1.0.0",
+    "description": "Needls code challenge",
+    "main": "gulpfile.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "gulp test:unit"
+    },
+    "author": "Forest W",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-phpunit": "^0.8.1",
+        "require-dir": "^0.3.0"
+    }
+}

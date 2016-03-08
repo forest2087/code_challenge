@@ -1,0 +1,15 @@
+{
+    "name": "forest/needls",
+    "description": "Needls code Challenge",
+    "require-dev": {
+        "mockery/mockery": "^0.9.4",
+        "phpunit/phpunit": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Forest W",
+            "email": "forest2087@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

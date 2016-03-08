@@ -1,0 +1,15 @@
+# IDE / OS
+.idea
+.vagrant
+*.DS_Store
+.buildpath
+.project
+.settings
+
+# Project
+vendor
+node_modules
+
+#ignore build
+build
+reports
